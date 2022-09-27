@@ -96,7 +96,7 @@ window.addEventListener('scroll', function () {
 const swiper = new Swiper('.swiper-container-one', {
   spaceBetween: 0,
   centeredSlides: true,
-  speed: 2000,
+  speed: 1500,
   autoplay: {
     delay: 0,
   },
